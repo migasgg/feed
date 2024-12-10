@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# Feed Social Media
 
 ![Imagem do projeto](./.github/projectImg.png)
 
