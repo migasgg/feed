@@ -1,5 +1,7 @@
 # React + TypeScript + Vite
 
+![Imagem do projeto](./.github./projectImg.png)
+
 ## Tecnologias usadas
 * React
 * TypeScript
